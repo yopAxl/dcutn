@@ -1,0 +1,93 @@
+/* Contenedor principal */
+.form-container {
+    background-color: #24512D;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 600px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+    /* Título del formulario */
+    .form-container h1 {
+        font-size: 24px;
+        color: #fff;
+        margin-bottom: 20px;
+        font-family: Prompt;
+        font-weight: 750;
+    }
+
+/* Estilos para la tabla */
+table {
+    width: 100%; /* Asegura que la tabla use todo el ancho disponible */
+    border-collapse: collapse; /* Elimina los espacios entre bordes */
+    text-align: left;
+}
+
+/* Celdas de la tabla */
+td {
+    padding: 10px; /* Espaciado interno en las celdas */
+    vertical-align: middle; /* Centra verticalmente el contenido */
+}
+
+/* Ajuste de inputs dentro de tablas */
+.input-field {
+    width: 95%; /* Ajusta el ancho dentro de la celda */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Área de texto */
+textarea.input-field {
+    height: 80px;
+    resize: none; /* Evita que se redimensione el textarea */
+}
+
+/* Color de los labels */
+label {
+    color: #fff; /* Cambiar a un gris oscuro para mayor visibilidad */
+    font-weight: bold; /* Opcional: hace que el texto sea más audaz */
+}
+
+/* Mensajes de validación en la misma fila */
+.asp-validation {
+    color: red;
+    font-size: 12px;
+    white-space: nowrap; /* Evita que el texto se divida */
+    padding-left: 10px; /* Espaciado entre input y validación */
+}
+
+/* Imagen de previsualización */
+.img-preview {
+    width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+/* Estilos del botón */
+.save-button, .exit-button {
+    background-color: #1A1A1A;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+    .save-button:hover, .exit-button:hover {
+        background-color: #0c0c0c;
+    }
+
+.exit-button {
+    margin-left: 0;
+}

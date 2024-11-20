@@ -1,0 +1,38 @@
+.t {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    background-color: black;
+    border: 2px solid #000;
+    /*lo unico que hace es colocar el grosor del borde*/
+    border-radius: 15px;
+    /*lo unico que hace es colocar el grosor del borde*/
+    overflow: hidden;
+    /*hace que el borde no sobresalga */
+}
+
+.t th,
+.t td {
+    border: 2px solid #24512D;
+    /* Color del borde de los encabezados */
+    text-align: center;
+    /*centra el texto de la tabla*/
+    height: 50px;
+    /*me define la anchura*/
+}
+
+.sec {
+    display: block;
+    margin: 2000px;
+    width: 500px;
+}
+
+.seccion_graf {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.div_contenedor {
+    margin-bottom: 30px;
+}

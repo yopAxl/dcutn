@@ -1,0 +1,152 @@
+/* Estilos generales para el formulario y los elementos */
+h2 {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight: 800;
+}
+
+p {
+	color: white;
+	font-family: Roboto;
+	font-weight: 500;
+}
+
+section {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 400px;
+	padding: 65px 20vw;
+}
+
+/* INICIO SESIÓN */
+.espacio {
+	visibility: hidden;
+	height: 290px;
+}
+
+.formulario {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 400px;
+	background: #24512D;
+	border-radius: 10px;
+}
+
+	.formulario h1 {
+		font-family: Montserrat;
+		text-align: center;
+		padding: 0 0 20px 0;
+		border-bottom: 1px solid white;
+		color: #E3F3D3;
+	}
+
+	.formulario form {
+		padding: 0 40px;
+		box-sizing: border-box;
+	}
+
+form .username {
+	position: relative;
+	margin: 0; /* Elimina el margen entre los campos */
+	border-bottom: 2px solid white;
+}
+
+.username input {
+	width: 100%;
+	padding: 0 5px;
+	height: 40px;
+	font-size: 16px;
+	border: none;
+	background: none;
+	outline: none;
+	color: white;
+	box-sizing: border-box; /* Asegura que el padding no afecte el tamaño del input */
+	transition: font-size 0.3s ease; /* Añade una transición suave para el cambio de tamaño de la fuente */
+}
+
+.username label {
+	position: absolute;
+	top: 50%;
+	left: 5px;
+	color: white;
+	transform: translateY(-50%);
+	font-size: 16px;
+	pointer-events: none;
+	transition: .5s;
+}
+
+/* Mueve la etiqueta hacia arriba cuando el campo tiene texto o tiene el foco */
+.username input:focus ~ label,
+.username input:not(:placeholder-shown) ~ label {
+	top: -10px;
+	left: 5px;
+	font-size: 18px; /* Tamaño de fuente más grande */
+	font-weight: bold; /* Negritas */
+	color: #272727;
+}
+
+.username span::before {
+	content: '';
+	position: absolute;
+	top: 40px;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background: #272727;
+	transition: .5s;
+}
+
+.username input:focus ~ span::before,
+.username input:not(:placeholder-shown) ~ span::before {
+	width: 100%;
+}
+
+.username input:focus {
+	font-size: 20px; /* Aumenta el tamaño de la fuente cuando el input tiene el foco */
+}
+
+.recordar a {
+	margin: -5px 0 20px 5px;
+	color: #E3F3D3;
+	cursor: pointer;
+}
+
+	.recordar a:hover {
+		text-decoration: underline;
+	}
+
+input[type="submit"] {
+	width: 100%;
+	height: 50px;
+	border: 1px solid;
+	background: #272727;
+	border-radius: 25px;
+	font-size: 18px;
+	color: white;
+	cursor: pointer;
+	outline: none;
+}
+
+	input[type="submit"]:hover {
+		border-color: #272727;
+		transition: .5s;
+	}
+
+.registrarse {
+	margin: 30px;
+	text-align: center;
+	font-size: 16px;
+	color: white;
+}
+
+	.registrarse a {
+		color: white;
+		text-decoration: none;
+	}
+
+		.registrarse a:hover {
+			text-decoration: underline;
+		}

@@ -1,0 +1,138 @@
+﻿/* Estilos generales para el texto */
+p {
+    color: white;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 500;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Estilos para las secciones principales */
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 50px 10vw 0px;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+}
+
+/* Estilos para el contenedor de botones */
+.div_butt {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px 10vw;
+}
+
+/* Estilos para el contenedor de los puestos */
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px 10vw;
+    flex-wrap: wrap; /* Permite que los elementos se ajusten en varias líneas si es necesario */
+}
+
+/* Estilos para las secciones de ranking y nuevos puestos */
+.ranking-section, .new-section {
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    min-width: 45%;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+}
+
+/* Estilos para los puestos */
+.puesto {
+    background: linear-gradient(to right, #24512D, #12976D);
+    background-size: 400% 400%;
+    color: #fff;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    width: 100%; /* Ajusta el ancho para que se acomode en una fila */
+    text-align: center;
+    box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+}
+
+    .puesto h3 {
+        margin: 0 0 10px; /* Espacio entre el título y el párrafo */
+        font-size: 18px; /* Tamaño del texto del título */
+    }
+
+    .puesto p {
+        margin: 0; /* Elimina el margen del párrafo para evitar espacio extra */
+        font-size: 16px; /* Tamaño del texto del párrafo */
+    }
+
+    .puesto:hover {
+        background: linear-gradient(to right, #1e4426, #0f815d);
+        background-size: 400% 400%;
+    }
+
+/* Estilos para el buscador */
+.buscador {
+    position: absolute;
+    top: 15px; /* Ajusta según el margen deseado desde la parte superior */
+    right: 15px; /* Ajusta según el margen deseado desde la parte derecha */
+    background-color: rgba(18, 150, 78, 1); /* Fondo blanco para el buscador */
+    padding: 10px; /* Espacio interior del buscador */
+    border-radius: 25px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px; /* Espacio entre los elementos dentro del buscador */
+}
+
+    .buscador .cta {
+        padding-right: 20px;
+    }
+
+        .buscador .cta button {
+            background-color: #1A1A1A;
+        }
+
+            .buscador .cta button:hover {
+                background-color: #0c0c0c;
+            }
+
+    .buscador input {
+        font-family: Roboto;
+        border-radius: 25px;
+        padding: 10px;
+        border: none;
+    }
+
+/* Estilos para los botones de la sección de registro */
+.reg button {
+    padding: 15px 30px;
+    background-color: rgb(244, 252, 247);
+    border: none;
+    margin-left: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    text-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: #1c1d1d;
+    text-decoration: none;
+}
+
+    .reg button:hover {
+        background-color: rgba(226, 226, 226, 0.8);
+    }
+
+.img-circular {
+    width: 80px; /* Ajusta el tamaño según sea necesario */
+    height: 80px; /* Ajusta el tamaño según sea necesario */
+    border-radius: 50%;
+    object-fit: cover; /* Asegura que la imagen cubra el área del contenedor */
+    margin-top: 10px; /* Espacio entre el nombre y la imagen */
+}

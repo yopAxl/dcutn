@@ -1,0 +1,129 @@
+
+.form-container {
+    background-color: #24512D;
+    /* Fondo del formulario */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 600px;
+    font-family: Roboto;
+    font-weight: 600;
+    color: white;    
+}
+
+    .form-container h1 {
+        font-size: 24px;
+        color: #fff;
+        margin-bottom: 20px;
+        font-family: Prompt;
+        font-weight: 750;
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+    table tr td {
+        padding: 10px 0;
+        text-align: left;
+    }
+
+        table tr td label {
+            display: block;
+            font-size: 14px;
+            color: #fff;
+            margin-bottom: 5px;
+        }
+
+        table tr td input[type="text"],
+        table tr td textarea {
+            width: calc(100% - 20px);
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            margin: 0 auto;
+            display: block;
+        }
+
+        table tr td textarea {
+            height: 80px;
+            resize: none;
+        }
+
+        table tr td input {
+            color: black;
+        }
+
+.image-placeholder {
+    width: 100%;
+    height: 100px;
+    border: 1px solid #ccc;
+    background: url('path_to_image_placeholder') no-repeat center center;
+    background-size: contain;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 24px;
+    margin-top: 10px;
+}
+
+    .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 24px;
+}
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 16px;
+        width: 16px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        transition: .4s;
+        border-radius: 50%;
+    }
+
+input:checked + .slider {
+    background-color: #4CAF50;
+}
+
+    input:checked + .slider:before {
+        transform: translateX(26px);
+    }
+
+.button {
+    background-color: #1A1A1A;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+    .button:hover {
+        background-color: #0c0c0c;
+    }

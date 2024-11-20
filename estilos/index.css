@@ -1,0 +1,118 @@
+h2 {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight: 800;
+}
+
+p {
+	color: white;
+	font-size: 16px;
+	font-family: Roboto;
+	font-weight: 500;
+	text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+section {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 400px;
+	padding: 50px 20vw 0px;
+}
+
+.cont_redondo {
+	background: linear-gradient(to right, #24512D, #12976D, #28611a);
+	background-size: 400% 400%;
+	animation: anim_background 10s infinite ease-in-out;
+	border-radius: 25px;
+	padding: 30px 50px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	transition: transform 0.3s, box-shadow 0.3s;
+	text-align: center;
+}
+
+.cont_redondo:hover {
+	transform: scale(1.05);
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.cont_redondo h1 {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+.cont_redondo p {
+	color: #fff;
+	line-height: 1.6;
+}
+
+.cont_redondo button {
+	padding: 15px 30px;
+	background-color: rgb(244, 252, 247);
+	border: none;
+	margin-left: 20px;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3s ease 0s;
+	text-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+	font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 17px;
+	color: #1c1d1d;
+	text-decoration: none;
+}
+
+.cont_redondo button:hover {
+	background-color: rgba(226, 226, 226, 0.8);
+	color: #0f0f0f;
+}
+
+@keyframes anim_background {
+	0% {
+		background-position: 0 50%;
+	}
+
+	50% {
+		background-position: 100% 50%;
+	}
+
+	100% {
+		background-position: 0 50%;
+	}
+}
+
+.row {
+	width: 80%;
+	max-width: 1170px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 0px;
+}
+
+.row .wrap_img {
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.row .wrap_img img {
+	width: 50%;
+	height: auto;
+	object-fit: cover;
+}
+
+.fb-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+}
+
+	.fb-container .fb-page {
+		border: 1px solid #ccc;
+		border-radius: 10px;
+		overflow: hidden;
+	}

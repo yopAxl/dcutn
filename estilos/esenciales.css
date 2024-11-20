@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(135deg, #1A1A1A, #1F1F1F, #272727);
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	line-height: 1.3;
+	align-items: center;
+	min-height: 100vh;
+	overflow-x: hidden;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.spacertop {
+	aspect-ratio: 960/200;
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
+
+.spacerbot {
+	aspect-ratio: 960 / 195;
+	width: 100%;
+	height: 195px;
+	/* Altura deseada */
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	/* Mueve la imagen hacia la parte inferior */
+	background-size: cover;
+	margin-top: auto;
+}
+
+.layer1 {
+	background-image: url('../imagenes/waves2.svg');
+}
+
+.layer2 {
+	background-image: url('../imagenes/waves2reves.svg');
+}
+
+.titulo {
+	font-family: Prompt;
+	font-weight: 750;
+	text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+	margin-right: auto;
+	font-size: 45px;
+	color: #edf0f1;
+}
+
+li,
+a {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #edf0f1;
+	text-decoration: none;
+	background: transparent;
+}
+
+h1 {
+	font-family: Prompt;
+	font-weight: 750;
+	font-size: 35px;
+	color: #edf0f1;
+	letter-spacing: 0.5px;
+	text-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+}
+
+header {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 10px 10%;
+	background: transparent;
+}
+
+
+.logo {
+	width: 110px;
+	height: 110px;
+	cursor: pointer;
+	margin-right: 40px;
+	background: transparent;
+}
+
+.nav_links {
+	list-style: none;
+
+}
+
+.nav_links li {
+	display: inline-block;
+	padding: 0px 20px;
+	text-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.nav_links li a {
+	transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+	color: #E3F3D3;
+}
+
+button {
+	padding: 9px 25px;
+	background-color: rgba(18, 150, 78, 1);
+	border: none;
+	margin-left: 20px;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3s ease 0s;
+	text-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+	font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #edf0f1;
+	text-decoration: none;
+}
+
+button:hover {
+	background-color: rgba(18, 150, 78, 0.5);
+	color: #E3F3D3;
+}
+
+footer {
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merriweather Sans', sans-serif;
+	text-align: center;
+	margin-top: 30px;
+	margin-right: 120px;
+	float: center;
+}
+
+footer img {
+	width: 110px;
+	height: 110px;
+	cursor: pointer;
+	margin-right: auto;
+	margin-left: 60px;
+	margin-top: 20px;
+	background: transparent;
+	float: left;
+}
+
+footer a {
+	transition: all 0.3s ease 0s;
+}
+
+footer a:hover {
+	color: rgba(255, 255, 255, 0.72);
+}
+
+@keyframes scrollAnimation {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+#seccion {
+	opacity: 0;
+	/* Inicia con opacidad 0 */
+	animation: scrollAnimation 1s ease forwards;
+	/* Aplica la animación */
+}
+
+.contenedores {
+	background: linear-gradient(to right, #24512D, #12976D);
+	background-size: 400% 400%;
+	animation: anim_background 10s infinite ease-in-out;
+	border-radius: 25px;
+	padding: 30px 220px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	transition: transform 0.3s, box-shadow 0.3s;
+	text-align: center;
+	position: relative;
+}
+
+.wrapper {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.validaciones {
+	color: red;
+}
+
+#map {
+	border: 16px solid #2F6037; /* Borde blanco y grueso */
+	border-radius: 15px; /* Bordes redondeados */
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Sombra opcional para realzar el mapa */
+	margin: 0 auto; /* Centrado horizontal */
+}

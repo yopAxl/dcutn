@@ -1,0 +1,63 @@
+h3 {
+	font-family: Prompt;
+	font-weight: 750;
+	font-size: 35px;
+	color: #edf0f1;
+}
+
+	.container2 {
+		width: 80%;
+		margin: 0 auto;
+		text-align: center;
+		border: 1px solid #000;
+		padding: 10px;
+	}
+
+section {
+	text-align: center;
+}
+
+	.reg{
+		padding: 15px 30px;
+		background-color: rgb(244, 252, 247);
+		border: none;
+		margin-left: 20px;
+		border-radius: 50px;
+		cursor: pointer;
+		transition: all 0.3s ease 0s;
+		text-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+		box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+		font-family: "Montserrat", sans-serif;
+		font-weight: 500;
+		font-size: 17px;
+		color: #1c1d1d;
+		text-decoration: none;
+	}
+
+	.reg:hover {
+		background-color: rgba(226, 226, 226, 0.8);
+		color: #0f0f0f;
+	}
+
+	.styledTextBox {
+		width: 80%;
+		padding: 10px;
+		margin: 10px 0;
+		border: 1px solid #ccc;
+		border-radius: 5px;
+		font-size: 16px;
+		font-family: 'Roboto', sans-serif;
+		font-weight:600;
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+		transition: border-color 0.3s, box-shadow 0.3s;
+	}
+
+	.styledTextBox:focus {
+		border-color: #66afe9;
+		box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+		outline: none;
+	}
+
+	.noResize {
+		resize: none;
+	}

@@ -1,0 +1,86 @@
+.table-container {
+    background-color: #E7F1D1;
+    /* Fondo del contenedor */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+    .table-container h1 {
+        font-size: 24px;
+        color: #1A1A1A;
+        margin-bottom: 20px;
+        font-family: Prompt;
+        font-weight: 750;
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    table thead {
+        background-color: #1A1A1A;
+    }
+
+    table th,
+    table td {
+        padding: 10px;
+        text-align: left;
+    }
+
+    table th {
+        background-color: #1A1A1A;
+        color: white;
+        font-weight: 700;
+    }
+
+    table td a {
+        color: #dceeb7;
+        text-decoration: none;
+        display: block; /* Cambiado a block para que ocupe todo el ancho */
+        padding: 10px;
+        border-radius: 5px;
+        box-sizing: border-box; /* Asegura que el padding no afecte el ancho total */
+    }
+
+        table td a:hover {
+            text-decoration: none;
+            color: #fff;
+            background-color: #6dbe45; /* Verde suave para hover */
+            transition: background-color 0.3s ease;
+        }
+
+    table tbody {
+        background-color: #24512D;
+    }
+
+.exit-button {
+    background-color: #1A1A1A;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .exit-button:hover {
+        background-color: #0c0c0c;
+    }
+
+.a_eliminar {
+    color: rgb(255, 77, 77);
+}
+
+    .a_eliminar:hover {
+        background-color: #f53d3d; /* Rojo suave para hover */
+        color: white;
+        transition: background-color 0.3s ease;
+    }

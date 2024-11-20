@@ -1,0 +1,135 @@
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.dll.config
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.pdb
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.exe
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.exe.config
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.rsp
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.exe
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.exe.config
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.rsp
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.AppContext.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Collections.Immutable.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Console.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Globalization.Calendars.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.Compression.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.FileSystem.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Net.Http.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Net.Sockets.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Reflection.Metadata.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.ValueTuple.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XPath.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.exe
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.exe.config
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.rsp
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\VBCSCompiler.exe
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\VBCSCompiler.exe.config
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.AssemblyReference.cache
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.CoreCompileInputs.cache
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.CopyComplete
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.dll
+D:\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.pdb
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.dll.config
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DondeComerUTN_Visual.pdb
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.exe
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.exe.config
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csc.rsp
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.exe
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.exe.config
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\csi.rsp
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.AppContext.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Collections.Immutable.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Console.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Globalization.Calendars.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.Compression.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.FileSystem.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Net.Http.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Net.Sockets.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Reflection.Metadata.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.ValueTuple.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XPath.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.exe
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.exe.config
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\vbc.rsp
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\VBCSCompiler.exe
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\roslyn\VBCSCompiler.exe.config
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.AssemblyReference.cache
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.CoreCompileInputs.cache
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeCom.F8F0D646.Up2Date
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.pdb
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\obj\Debug\DondeComerUTN_Visual.csproj.ResolveComReference.cache
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DocumentFormat.OpenXml.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DocumentFormat.OpenXml.Framework.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Buffers.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Drawing.Common.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Memory.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Numerics.Vectors.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Text.Encoding.CodePages.dll
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DocumentFormat.OpenXml.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\DocumentFormat.OpenXml.Framework.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Buffers.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Memory.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Numerics.Vectors.xml
+D:\MEMORIA COMPLETA\DondeComerUTN_Visual\DondeComerUTN_Visual\bin\System.Runtime.CompilerServices.Unsafe.xml
